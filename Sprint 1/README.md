@@ -2,6 +2,6 @@
 
 
 - Certificado do Curso ABC
-[!\[Curso Linux\](/cetificado_linux.pdf)](certificados)
+[!\[Curso Linux\](/certificado_linux.pdf)](certificados)
 
 
