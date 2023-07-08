@@ -1,7 +1,11 @@
 # Certificados
 
 
-![Certificado_do_Linux](certificados/certificado_linux.pdf)
+![Certificado do Linux](certificados/certificado_linux.pdf)
+
+![Certificado do Git e Github](certificados/certificado_git.pdf)
+
+
 
 
 
