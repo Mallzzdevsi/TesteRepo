@@ -3,7 +3,7 @@
 Linux:
 ![Certificado do Linux](certificados/certificado_linux.jpg)
 
-Git & GIitHub:
+Git & GitHub:
 ![Certificado do Git e Github](certificados/certificado_git.jpg)
 
 
